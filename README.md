@@ -5,7 +5,7 @@
 
 ##### I'm very proficient in python, and have a good foundation on basic ML and other predictive analysis methods (Andrew Ng coursera).
 ##### However I lack the experience in implementing this knowledge on DS & ML projects. I'm wandering Kaggle hoping to acquire this experience.
-##### Please feel free to contact me for collaborating on such projects; I'd greatly appreciate it. Such an exposure with other partners is what I'm striving for to improve my skills. Check out my detailed DS portfolio here (hyperlink coming soon)
+##### Please feel free to contact me for collaborating on such projects; I'd greatly appreciate it. Such an exposure with other partners is what I'm striving for to improve my skills. Check out my detailed DS portfolio [here](https://viveksivaramakrishnan.github.io/)
 
 ###### For 2 years I've been meaning to explore this platform to the fullest. Thanks to devdays for finally pushing me to start githubifying :)
 
